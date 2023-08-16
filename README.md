@@ -1,6 +1,6 @@
 <div style="padding-right: 20vw; padding-left: 20vw;">
 
-# How Palette was made?
+# How Palette was made
 
 If you are reading this you probably already know what Palette is. This is a little write-up/blog of my process and instructions for any developers that want to integrate this feature into their MDC/KFD app. If you do end up using this method, crediting me is optional (I will appreciate it tho) but I would at least encourage you to credit [@timac](https://mastodon.social/@timac). This discovery would not be possible without his blog about [Reverse engineering the .car file format](https://blog.timac.org/2018/1018-reverse-engineering-the-car-file-format/).
 
