@@ -79,7 +79,7 @@ Just kidding...
 
 To save you the trouble, I have parsed and formatted the data from each of the files and placed them with the respective names in the `Parsed Files` folder. There you will see that each file is an array of JSON objects with the following format:
 
-```json
+```
 {
     "keyName": "systemBlueColor", // name of the variable
     "hexColorValue": "ff7a00ff",  // original hex color value
